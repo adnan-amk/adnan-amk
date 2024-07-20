@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanamk20&label=Profile%20views&color=0e75b6&style=flat" alt="adnanamk20" /> </p>
 
-- 🌱 I’m currently learning **Spring for backend development.**
+- 🌱 I’m currently working as a **Software Engineer 1 @ Honeywell Technologies Solutions.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AdnanAMK20](https://github.com/AdnanAMK20)
+- 👨‍💻 All of my projects are available at [https://github.com/adnan-amk](https://github.com/adnan-amk)
 
-- 💬 Ask me about **flutter,java ,Data Structures .**
+- 💬 Ask me about **Flutter, Java, Data Structures,React-JS, Spring Boot, Docker, K8s, MySQL.**
 
 - 📫 How to reach me **amkadnan89@gmail.com**
 
