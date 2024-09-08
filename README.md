@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adnan Khan</h1>
-<h3 align="center">Fluttering Through Code: Crafting Solutions with Java, Data Structures and Flutter Framework</h3>
+<h3 align="center">Playing with Java, Spring Boot, MySQL and Something called Docker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanamk20&label=Profile%20views&color=0e75b6&style=flat" alt="adnanamk20" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/adnan-amk](https://github.com/adnan-amk)
 
-- 💬 Ask me about **Flutter, Java, Data Structures,React-JS, Spring Boot, Docker, K8s, MySQL.**
+- 💬 Ask me about **Java, Data Structures,React-JS, Spring Boot, Docker, K8s, MySQL.**
 
 - 📫 How to reach me **amkadnan89@gmail.com**
 
