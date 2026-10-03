@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/adnan-amk](https://github.com/adnan-amk)
 
-- 💬 Ask me about ** Java, Spring Boot, React JS, REST APIs, Docker, MySQL, MSSQL**
+- 💬 Ask me about **Java, Spring Boot, React JS, REST APIs, Docker, MySQL, MSSQL**
 
 - 📫 Reach me at **amkadnan89@gmail.com**
 
