@@ -5,15 +5,15 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working as a **Software Engineer - 1 @ Honeywell Technology Solutions, Bangalore**
+- 🔭 I'm currently working as a **Software Engineer  @ Airbus India Pvt Lmt, Bangalore**
 
 - 💼 Specialized in **migrating legacy desktop systems to modern web platforms** using .NET Core 8 and React JS
 
-- 🌱 Expertise in **C#, .NET Core, ASP.NET Core, Spring Boot, React JS, MSSQL, and MySQL**
+- 🌱 Expertise in **Java 8,11,17, Spring Boot, React JS, MSSQL, and MySQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adnan-amk](https://github.com/adnan-amk)
 
-- 💬 Ask me about **C#, .NET Core, ASP.NET, Java, Spring Boot, React JS, REST APIs, Docker, MySQL, MSSQL**
+- 💬 Ask me about ** Java, Spring Boot, React JS, REST APIs, Docker, MySQL, MSSQL**
 
 - 📫 Reach me at **amkadnan89@gmail.com**
 
@@ -26,7 +26,6 @@ Full stack developer with experience in building scalable backend services, inte
 ## 🛠️ Technical Skills
 
 **Languages & Frameworks:**
-- C#, .NET Core 8, ASP.NET Core
 - Java 8/11, Spring Boot
 - React JS, JavaScript (ES6)
 
@@ -34,7 +33,6 @@ Full stack developer with experience in building scalable backend services, inte
 - MSSQL, MySQL
 
 **Libraries & Tools:**
-- OpenXML SDK, Entity Framework, LINQ
 - REST API, JDBC, Hibernate
 
 **Cloud & DevOps:**
@@ -49,8 +47,7 @@ Full stack developer with experience in building scalable backend services, inte
 ## 🏆 Key Achievements
 
 - Primary developer for migrating a legacy desktop application to a modern web platform using .NET Core 8 and React JS
-- Developed RESTful APIs using ASP.NET Core for seamless frontend-backend integration
-- Integrated OpenXML SDK to automate Microsoft Office file processing workflows
+- Developed RESTful APIs using Java & Spring Boot for seamless frontend-backend integration
 - Built a Web-Based Recruitment System with Spring Boot backend and React JS frontend
 - Implemented role-based access control and AWS S3 integration for scalable data management
 
